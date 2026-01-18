@@ -110,9 +110,7 @@ export default function Index() {
                   <Icon name="Users" size={24} className="text-primary" />
                 </div>
                 <CardTitle>Малые группы</CardTitle>
-                <CardDescription>
-                  До 8 человек в группе для максимальной эффективности обучения
-                </CardDescription>
+                <CardDescription>До 9 человек в группе для максимальной эффективности обучения</CardDescription>
               </CardHeader>
             </Card>
 
